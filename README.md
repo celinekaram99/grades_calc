@@ -18,7 +18,7 @@ https://grades-cals.onrender.com/
 
 ## Installing
 
-gradeulator **requires** _nodejs_ (and aditionally npm). If you don't have it already you can download it **[here.](https://nodejs.org/en/)**  
+grades_calca **requires** _nodejs_ . If you don't have it already you can download it **[here.](https://nodejs.org/en/)**  
 
 **1.** Clone or download the repository to your local machine:  
 ```bash
