@@ -18,7 +18,10 @@ https://grades-cals.onrender.com/
 
 ## Installing
 
-1. Clone or download the repository to your local machine
+1. Clone or download the repository to your local machine 
+```bash
+https://github.com/celinekaram99/grades_calc.git
+```
 
 
 
