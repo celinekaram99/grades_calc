@@ -29,10 +29,8 @@ git clone https://github.com/celinekaram99/grades_calc.git
 **4.** open your browser at **http://localhost:3000/** the application will be available
 
 ## :heavy_division_sign: Using the Calculator
-
-The application allows the user to enter the final grades and the user determines how many grades he have.  The user then enters their scores for each subject and after that the application calculates the grade average
-
-The user interface is built using EJS and is rendered on the server using a render server such as Pug, Mustache, or Handlebars.
+The application allows the user to calculate the grade average and the user determines how many grades he has. <br>
+The user then enters their scores for each subject and after that, the application calculates the grade average and returns them.
 
 **Example how to use:** <br>
 ![alt text](https://github.com/celinekaram99/grades_calc/blob/master/ezgif.com-gif-maker.gif?raw=true)
