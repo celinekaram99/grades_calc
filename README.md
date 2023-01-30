@@ -24,13 +24,9 @@ gradeulator **requires** _nodejs_ (and aditionally npm). If you don't have it al
 ```bash
 git clone https://github.com/celinekaram99/grades_calc.git
 ```
-**2.** Clone the repository and extract the zip file  
-**3.** Using a terminal, `cd` into the file repository  
-**4.** Run `npm install` to install the dependencies *(dependencies are listed below)*  
-**5.** Run `node server.js` to launch **localhost:3000**
-
-
-The application will be available at `http://localhost:3000/`
+**2.** Using a terminal, `cd` into the folder 'grades_calc'
+**3.** Run `node server.js` in the terminal
+**4.** open your browser at **http://localhost:3000/** the application will be available
 
 ## :heavy_division_sign: Using the Calculator
 
