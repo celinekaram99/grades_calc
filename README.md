@@ -34,6 +34,7 @@ The application allows the user to enter the final grades and the user determine
 
 The user interface is built using EJS and is rendered on the server using a render server such as Pug, Mustache, or Handlebars.
 
+**Example:**
 ![alt text](https://github.com/celinekaram99/grades_calc/blob/master/ezgif.com-gif-maker.gif?raw=true)
 
 ## Credits
