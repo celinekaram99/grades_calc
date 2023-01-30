@@ -18,12 +18,12 @@ https://grades-cals.onrender.com/
 
 ## Installing
 
-1. Clone or download the repository to your local machine 
-```bash
-https://github.com/celinekaram99/grades_calc.git
-```
 gradeulator **requires** _nodejs_ (and aditionally npm). If you don't have it already you can download it **[here.](https://nodejs.org/en/)**  
-**1.** Fork (or clone) this repository  
+
+**1.** Clone or download the repository to your local machine:  
+```bash
+git clone https://github.com/celinekaram99/grades_calc.git
+```
 **2.** Clone the repository and extract the zip file  
 **3.** Using a terminal, `cd` into the file repository  
 **4.** Run `npm install` to install the dependencies *(dependencies are listed below)*  
